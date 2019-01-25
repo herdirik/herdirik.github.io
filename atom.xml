@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[THE ROOT'un BLOĞU]]></title>
+  <link href="http://herdirik.github.io/atom.xml" rel="self"/>
+  <link href="http://herdirik.github.io/"/>
+  <updated>2019-01-26T02:29:02+03:00</updated>
+  <id>http://herdirik.github.io/</id>
+  <author>
+    <name><![CDATA[Hatice ERDİRİK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
